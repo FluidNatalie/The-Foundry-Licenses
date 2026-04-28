@@ -1,3 +1,12 @@
+Copyright (c) {year} {owner}
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
 For use and distribution - The provided software is allowed to be used for private, educational, and select commercial use cases (read more in the clause on commercial use). The software is allowed to be redistributed if this licence and attribution is included.
 
 For modification - Contact the author via {method of contact}: {contact details}
@@ -5,3 +14,14 @@ The author can then give explicit permission for modification once contacted. If
 Furthermore, unless explicitly stated otherwise by the author, once the date {deadline date} has passed, the provided software is provided with the same restrictions as software licensed under MIT.
 
 For commercial use - Content creators and live-streamers are explicitly allowed to create, publish, and monetize videos, streams, or other gameplay content featuring the provided software on platforms such as YouTube, Twitch, Kick, Rumble, or similar services. Monetization includes revenue from ads, tips, memberships, sponsorships, or similar forms of revenue. This permission applies as long as the software itself is not sold or pay-walled.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
